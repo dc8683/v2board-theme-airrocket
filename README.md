@@ -9,17 +9,17 @@
 ## 主题信息
 
 * 适配后端面板： [**v2board**](https://github.com/v2board/v2board) \ [**wyxboard**](https://github.com/wyx2685/v2board) \ [**xboard**](https://github.com/cedar2025/Xboard)
-* 交流群组：[🚀 AirBuddy Theme](https://t.me/themebuddy)
+* 主题频道：[🚀 AirBuddy Theme](https://t.me/v2board_buddy)
+* 交流群组：[💬 AirBuddy 主题交流群](https://t.me/themebuddy)
 * 在线客服：[🏄‍♂️ AirBuddy Service](https://t.me/R8d_pro_bot)
 * 授权购买方式：[🏪 AirBuddy Shop](https://r8d.pro/shop) 购买后自动构建打包发货
 * 使用文档：[📖 AirBuddy Docs](https://docs.r8d.pro/docs)
 
 ## 在线预览
 
-*  常规布局演示站点 : [airocket.r8d.pro](http://airocket.r8d.pro/)
-*  简约布局演示站点 : [airocketc.r8d.pro](http://airocketc.r8d.pro/)
-*  账号: Matrix@r8d.pro
-*  密码: Matrix@r8d.pro
+*  演示站点 : [rocket.r8d.pro](https://rocket.r8d.pro/)
+*  账号: matrix@r8d.pro
+*  密码: matrix@r8d.pro
 
 ## 主题介绍
 
@@ -104,8 +104,8 @@ v2board/xboard 新增路由文件，无需用户先注册再购买，用户选�
 ![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/custom3-5.3d4zd7zlu7.webp)
 ![](https://github.com/dc8683/picx-images-hosting/raw/master/docs/custom3-2.pfj2v6kia.webp)
 
-### 重要提醒: 
+### 重要提醒:
 
 > 定制案例不进行二次销售，谢绝上门就要求过往案例源码的客户
-> 如需定制，只需向我们阐述您的核心诉求，我们将为你提供最优的解决方案，包含设计和技术方案 
+> 如需定制，只需向我们阐述您的核心诉求，我们将为你提供最优的解决方案，包含设计和技术方案
 > 我们提供的不仅仅是主题代码，更是一整套解决方案，我们的目标是帮助您解决问题，而不是卖代码
